@@ -1,0 +1,11 @@
+h1{
+	text-align: center;
+	color: #333333;
+}
+h2{
+	color: #020080;
+	text-shadow: 1px 1px #000000;
+}
+ol li{
+	list-style-image: url("../img/tinym.png");
+}
